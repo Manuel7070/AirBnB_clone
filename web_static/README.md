@@ -1,10 +1,10 @@
 # 0x01. AirBnB Clone - Web Static
 
-**HTML | CSS | Front-end**  
-*By: Guillaume*  
-*Weight: 1*  
-*Project Start: Jan 18, 2024 6:00 AM*  
-*Project End: Jan 23, 2024 6:00 AM*  
+HTML | CSS | Front-end  
+By: Guillaume
+Weight: 1
+Project Start: Jan 18, 2024 6:00 AM  
+Project End: Jan 23, 2024 6:00 AM 
 
 ## Table of Contents
 - [Concepts](#concepts)
@@ -16,8 +16,8 @@
 ## Concepts
 For this project, we expect you to focus on the following concepts:
 
-- **HTML/CSS**
-  - The trinity of front-end quality.
+- HTML/CSS
+- The trinity of front-end quality.
 
 ## Background Context
 ### Web static, what?
