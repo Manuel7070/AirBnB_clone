@@ -83,5 +83,3 @@ You are tasked to come up with solutions for the tasks below yourself to meet th
 - Current screenshots have been done on Chrome 56 or more.
 - No cross browsers.
 - You have to follow all requirements, but some margin/padding are missing - you should try to fit as much as you can to screenshots.
-
-*More Info*
